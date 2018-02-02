@@ -1,231 +1,120 @@
-Index,Country,From,To,Participants,Sports,Gold,Silver,Bronze
-1,Afghanistan,,,,,,,
-2,Albania,2006,2014,2,1,,,
-3,Algeria,1992,2010,7,2,,,
-4,American Samoa,1994,1994,2,1,,,
-5,Andorra,1976,2014,28,4,,,
-6,Angola,,,,,,,
-7,Antigua and Barbuda,,,,,,,
-8,Argentina,1928,2014,136,8,,,
-9,Armenia,1994,2014,28,5,,,
-10,Aruba,,,,,,,
-11,Australasia,,,,,,,
-12,Australia,1924,2014,240,14,5,3,4
-13,Austria,1924,2014,859,14,59,78,81
-14,Azerbaijan,1998,2014,13,2,,,
-15,Bahamas,,,,,,,
-16,Bahrain,,,,,,,
-17,Bangladesh,,,,,,,
-18,Barbados,,,,,,,
-19,Belarus,1994,2014,160,10,6,4,5
-20,Belgium,1924,2014,124,8,1,1,3
-21,Belize,,,,,,,
-22,Benin,,,,,,,
-23,Bermuda,1992,2014,3,3,,,
-24,Bhutan,,,,,,,
-25,Bohemia,,,,,,,
-26,Bolivia,1956,1992,13,1,,,
-27,Bosnia and Herzegovina,1994,2014,28,5,,,
-28,Botswana,,,,,,,
-29,Brazil,1992,2014,32,8,,,
-30,British Virgin Islands,1984,2014,2,2,,,
-31,Brunei,,,,,,,
-32,Bulgaria,1936,2014,180,11,1,2,3
-33,Burkina Faso,,,,,,,
-34,Burundi,,,,,,,
-35,Cambodia,,,,,,,
-36,Cameroon,2002,2002,1,1,,,
-37,Canada,1924,2014,1279,15,62,56,52
-38,Cape Verde,,,,,,,
-39,Cayman Islands,2010,2014,1,1,,,
-40,Central African Republic,,,,,,,
-41,Chad,,,,,,,
-42,Chile,1948,2014,50,4,,,
-43,China,1980,2014,311,11,12,22,19
-44,Chinese Taipei,1972,2014,44,8,,,
-45,Colombia,2010,2010,1,1,,,
-46,Comoros,,,,,,,
-47,Congo (Brazzaville),,,,,,,
-48,Congo (Kinshasa),,,,,,,
-49,Cook Islands,,,,,,,
-50,Costa Rica,1980,2006,7,3,,,
-51,Cote d'Ivoire,,,,,,,
-52,Crete,,,,,,,
-53,Croatia,1992,2014,51,7,4,6,1
-54,Cuba,,,,,,,
-55,Cyprus,1980,2014,14,1,,,
-56,Czech Republic,1994,2014,267,14,7,9,8
-57,Czechoslovakia,1924,1992,480,11,2,8,15
-58,Denmark,1948,2014,58,8,,1,
-59,Djibouti,,,,,,,
-60,Dominica,2014,2014,1,1,,,
-61,Dominican Republic,,,,,,,
-62,East Germany,1968,1988,232,10,39,36,35
-63,Ecuador,,,,,,,
-64,Egypt,1984,1984,1,1,,,
-65,El Salvador,,,,,,,
-66,Equatorial Guinea,,,,,,,
-67,Eritrea,,,,,,,
-68,Estonia,1928,2014,94,8,4,2,1
-69,Ethiopia,2006,2010,1,1,,,
-70,Federated States of Micronesia,,,,,,,
-71,Fiji,1988,2002,2,2,,,
-72,Finland,1924,2014,723,12,42,62,57
-73,France,1924,2014,823,16,31,31,47
-74,Gabon,,,,,,,
-75,Gambia,,,,,,,
-76,Georgia,1994,2014,15,4,,,
-77,Germany,1928,2014,891,15,86,84,58
-78,Ghana,2010,2010,1,1,,,
-79,Great Britain,1924,2014,642,16,10,4,12
-80,Greece,1936,2014,66,8,,,
-81,Grenada,,,,,,,
-82,Guam,1988,1988,1,1,,,
-83,Guatemala,1988,1988,6,2,,,
-84,Guinea,,,,,,,
-85,Guinea Bissau,,,,,,,
-86,Guyana,,,,,,,
-87,Haiti,,,,,,,
-88,Honduras,1992,1992,1,1,,,
-89,Hong Kong,2002,2014,4,1,,,
-90,Hungary,1924,2014,206,10,,2,4
-91,Iceland,1948,2014,75,3,,,
-92,India,1924,2014,21,4,,,
-93,Individual Olympic Athletes,2014,2014,1,1,,,
-94,Indonesia,,,,,,,
-95,Iran,1956,2014,24,2,,,
-96,Iraq,,,,,,,
-97,Ireland,1992,2014,27,5,,,
-98,Israel,1994,2014,13,3,,,
-99,Italy,1924,2014,938,16,37,34,43
-100,Jamaica,1988,2014,11,2,,,
-101,Japan,1928,2014,798,15,10,17,18
-102,Jordan,,,,,,,
-103,Kazakhstan,1994,2014,192,11,1,3,3
-104,Kenya,1998,2006,1,1,,,
-105,Kiribati,,,,,,,
-106,Kosovo,,,,,,,
-107,Kuwait,,,,,,,
-108,Kyrgyzstan,1994,2014,7,4,,,
-109,Laos,,,,,,,
-110,Latvia,1924,2014,194,12,,4,3
-111,Lebanon,1948,2014,31,3,,,
-112,Lesotho,,,,,,,
-113,Liberia,,,,,,,
-114,Libya,,,,,,,
-115,Liechtenstein,1936,2014,80,4,2,2,5
-116,Lithuania,1928,2014,26,6,,,
-117,Luxembourg,1928,2014,12,4,,2,
-118,Macedonia,1998,2014,10,2,,,
-119,Madagascar,2006,2006,1,1,,,
-120,Malawi,,,,,,,
-121,Malaya,,,,,,,
-122,Malaysia,,,,,,,
-123,Maldives,,,,,,,
-124,Mali,,,,,,,
-125,Malta,2014,2014,1,1,,,
-126,Marshall Islands,,,,,,,
-127,Mauritania,,,,,,,
-128,Mauritius,,,,,,,
-129,Mexico,1928,2014,32,5,,,
-130,Moldova,1994,2014,15,4,,,
-131,Monaco,1984,2014,16,2,,,
-132,Mongolia,1964,2014,39,4,,,
-133,Montenegro,2010,2014,3,1,,,
-134,Morocco,1968,2014,24,2,,,
-135,Mozambique,,,,,,,
-136,Myanmar,,,,,,,
-137,Namibia,,,,,,,
-138,Nauru,,,,,,,
-139,Nepal,1924,2014,3,2,,,
-140,Netherlands,1928,2014,214,8,37,38,35
-141,Netherlands Antilles,1988,1992,3,2,,,
-142,New Zealand,1952,2014,90,11,,1,
-143,Newfoundland,,,,,,,
-144,Nicaragua,,,,,,,
-145,Niger,,,,,,,
-146,Nigeria,,,,,,,
-147,North Borneo,,,,,,,
-148,North Korea,1964,2010,62,5,,1,1
-149,North Yemen,,,,,,,
-150,Norway,1924,2014,820,15,118,111,100
-151,Oman,,,,,,,
-152,Pakistan,2010,2014,2,1,,,
-153,Palau,,,,,,,
-154,Palestine,,,,,,,
-155,Panama,,,,,,,
-156,Papua New Guinea,,,,,,,
-157,Paraguay,2014,2014,1,1,,,
-158,Peru,2010,2014,3,2,,,
-159,Philippines,1972,2014,5,3,,,
-160,Poland,1924,2014,511,15,6,7,7
-161,Portugal,1952,2014,12,5,,,
-162,Puerto Rico,1984,1998,17,5,,,
-163,Qatar,,,,,,,
-164,Refugee Olympic Athletes,,,,,,,
-165,Rhodesia,,,,,,,
-166,Romania,1928,2014,281,13,,,1
-167,Russia,1994,2014,616,15,49,40,35
-168,Rwanda,,,,,,,
-169,Saar,,,,,,,
-170,Saint Kitts and Nevis,,,,,,,
-171,Saint Lucia,,,,,,,
-172,Saint Vincent and the Grenadines,,,,,,,
-173,Samoa,,,,,,,
-174,San Marino,1976,2014,15,3,,,
-175,Sao Tome and Principe,,,,,,,
-176,Saudi Arabia,,,,,,,
-177,Senegal,1984,2010,3,1,,,
-178,Serbia,2010,2014,15,5,,,
-179,Serbia and Montenegro,1998,2006,12,5,,,
-180,Seychelles,,,,,,,
-181,Sierra Leone,,,,,,,
-182,Singapore,,,,,,,
-183,Slovakia,1994,2014,201,12,2,2,1
-184,Slovenia,1992,2014,158,11,2,4,9
-185,Solomon Islands,,,,,,,
-186,Somalia,,,,,,,
-187,South Africa,1960,2010,11,5,,,
-188,South Korea,1948,2014,255,13,26,17,10
-189,South Sudan,,,,,,,
-190,South Vietnam,,,,,,,
-191,South Yemen,,,,,,,
-192,Soviet Union,1956,1988,473,10,78,57,59
-193,Spain,1936,2014,132,10,1,,1
-194,Sri Lanka,,,,,,,
-195,Sudan,,,,,,,
-196,Suriname,,,,,,,
-197,Swaziland,1992,1992,1,1,,,
-198,Sweden,1924,2014,902,14,50,40,54
-199,Switzerland,1924,2014,1007,15,50,40,48
-200,Syria,,,,,,,
-201,Tajikistan,2002,2014,2,1,,,
-202,Tanzania,,,,,,,
-203,Thailand,2002,2014,3,2,,,
-204,Timor Leste,2014,2014,1,1,,,
-205,Togo,2014,2014,2,2,,,
-206,Tonga,2014,2014,1,1,,,
-207,Trinidad and Tobago,1994,2002,4,1,,,
-208,Tunisia,,,,,,,
-209,Turkey,1936,2014,61,3,,,
-210,Turkmenistan,,,,,,,
-211,Tuvalu,,,,,,,
-212,Uganda,,,,,,,
-213,Ukraine,1994,2014,198,13,2,1,4
-214,Unified Team,1992,1992,129,12,9,6,8
-215,United Arab Emirates,,,,,,,
-216,United Arab Republic,,,,,,,
-217,United States,1924,2014,1696,16,96,102,84
-218,United States Virgin Islands,1988,2014,26,3,,,
-219,Unknown,,,,,,,
-220,Uruguay,1998,1998,1,1,,,
-221,Uzbekistan,1994,2014,21,3,1,,
-222,Vanuatu,,,,,,,
-223,Venezuela,1998,2014,5,2,,,
-224,Vietnam,,,,,,,
-225,West Germany,1968,1988,336,10,11,15,13
-226,West Indies Federation,,,,,,,
-227,Yemen,,,,,,,
-228,Yugoslavia,1924,1992,235,10,,3,1
-229,Zambia,,,,,,,
-230,Zimbabwe,2014,2014,1,1,,,
+Country,From,To,Participants,Sports,Gold,Silver,Bronze
+Australia,1924,2014,240,14,5,3,4
+Austria,1924,2014,859,14,59,78,81
+Belgium,1924,2014,124,8,1,1,3
+Canada,1924,2014,1279,15,62,56,52
+Czechoslovakia,1924,1992,480,11,2,8,15
+Finland,1924,2014,723,12,42,62,57
+France,1924,2014,823,16,31,31,47
+Great Britain,1924,2014,642,16,10,4,12
+Hungary,1924,2014,206,10,,2,4
+India,1924,2014,21,4,,,
+Italy,1924,2014,938,16,37,34,43
+Latvia,1924,2014,194,12,,4,3
+Nepal,1924,2014,3,2,,,
+Norway,1924,2014,820,15,118,111,100
+Poland,1924,2014,511,15,6,7,7
+Sweden,1924,2014,902,14,50,40,54
+Switzerland,1924,2014,1007,15,50,40,48
+United States,1924,2014,1696,16,96,102,84
+Yugoslavia,1924,1992,235,10,,3,1
+Argentina,1928,2014,136,8,,,
+Estonia,1928,2014,94,8,4,2,1
+Germany,1928,2014,891,15,86,84,58
+Japan,1928,2014,798,15,10,17,18
+Lithuania,1928,2014,26,6,,,
+Luxembourg,1928,2014,12,4,,2,
+Mexico,1928,2014,32,5,,,
+Netherlands,1928,2014,214,8,37,38,35
+Romania,1928,2014,281,13,,,1
+Bulgaria,1936,2014,180,11,1,2,3
+Greece,1936,2014,66,8,,,
+Liechtenstein,1936,2014,80,4,2,2,5
+Spain,1936,2014,132,10,1,,1
+Turkey,1936,2014,61,3,,,
+Chile,1948,2014,50,4,,,
+Denmark,1948,2014,58,8,,1,
+Iceland,1948,2014,75,3,,,
+Lebanon,1948,2014,31,3,,,
+South Korea,1948,2014,255,13,26,17,10
+New Zealand,1952,2014,90,11,,1,
+Portugal,1952,2014,12,5,,,
+Bolivia,1956,1992,13,1,,,
+Iran,1956,2014,24,2,,,
+Soviet Union,1956,1988,473,10,78,57,59
+South Africa,1960,2010,11,5,,,
+Mongolia,1964,2014,39,4,,,
+North Korea,1964,2010,62,5,,1,1
+East Germany,1968,1988,232,10,39,36,35
+Morocco,1968,2014,24,2,,,
+West Germany,1968,1988,336,10,11,15,13
+Chinese Taipei,1972,2014,44,8,,,
+Philippines,1972,2014,5,3,,,
+Andorra,1976,2014,28,4,,,
+San Marino,1976,2014,15,3,,,
+China,1980,2014,311,11,12,22,19
+Costa Rica,1980,2006,7,3,,,
+Cyprus,1980,2014,14,1,,,
+British Virgin Islands,1984,2014,2,2,,,
+Egypt,1984,1984,1,1,,,
+Monaco,1984,2014,16,2,,,
+Puerto Rico,1984,1998,17,5,,,
+Senegal,1984,2010,3,1,,,
+Fiji,1988,2002,2,2,,,
+Guam,1988,1988,1,1,,,
+Guatemala,1988,1988,6,2,,,
+Jamaica,1988,2014,11,2,,,
+Netherlands Antilles,1988,1992,3,2,,,
+United States Virgin Islands,1988,2014,26,3,,,
+Algeria,1992,2010,7,2,,,
+Bermuda,1992,2014,3,3,,,
+Brazil,1992,2014,32,8,,,
+Croatia,1992,2014,51,7,4,6,1
+Honduras,1992,1992,1,1,,,
+Ireland,1992,2014,27,5,,,
+Slovenia,1992,2014,158,11,2,4,9
+Swaziland,1992,1992,1,1,,,
+Unified Team,1992,1992,129,12,9,6,8
+American Samoa,1994,1994,2,1,,,
+Armenia,1994,2014,28,5,,,
+Belarus,1994,2014,160,10,6,4,5
+Bosnia and Herzegovina,1994,2014,28,5,,,
+Czech Republic,1994,2014,267,14,7,9,8
+Georgia,1994,2014,15,4,,,
+Israel,1994,2014,13,3,,,
+Kazakhstan,1994,2014,192,11,1,3,3
+Kyrgyzstan,1994,2014,7,4,,,
+Moldova,1994,2014,15,4,,,
+Russia,1994,2014,616,15,49,40,35
+Slovakia,1994,2014,201,12,2,2,1
+Trinidad and Tobago,1994,2002,4,1,,,
+Ukraine,1994,2014,198,13,2,1,4
+Uzbekistan,1994,2014,21,3,1,,
+Azerbaijan,1998,2014,13,2,,,
+Kenya,1998,2006,1,1,,,
+Macedonia,1998,2014,10,2,,,
+Serbia and Montenegro,1998,2006,12,5,,,
+Uruguay,1998,1998,1,1,,,
+Venezuela,1998,2014,5,2,,,
+Cameroon,2002,2002,1,1,,,
+Hong Kong,2002,2014,4,1,,,
+Tajikistan,2002,2014,2,1,,,
+Thailand,2002,2014,3,2,,,
+Albania,2006,2014,2,1,,,
+Ethiopia,2006,2010,1,1,,,
+Madagascar,2006,2006,1,1,,,
+Cayman Islands,2010,2014,1,1,,,
+Colombia,2010,2010,1,1,,,
+Ghana,2010,2010,1,1,,,
+Montenegro,2010,2014,3,1,,,
+Pakistan,2010,2014,2,1,,,
+Peru,2010,2014,3,2,,,
+Serbia,2010,2014,15,5,,,
+Dominica,2014,2014,1,1,,,
+Individual Olympic Athletes,2014,2014,1,1,,,
+Malta,2014,2014,1,1,,,
+Paraguay,2014,2014,1,1,,,
+Timor Leste,2014,2014,1,1,,,
+Togo,2014,2014,2,2,,,
+Tonga,2014,2014,1,1,,,
+Zimbabwe,2014,2014,1,1,,,
