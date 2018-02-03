@@ -95,8 +95,8 @@ Japan,JPN
 Jordan,JOR
 Kazakhstan,KAZ
 Kenya,KEN
-"Korea, North",PRK
-"Korea, South",KOR
+North Korea,PRK
+South Korea,KOR
 Kuwait,KUW
 Kyrgyzstan,KGZ
 Laos,LAO
@@ -176,7 +176,7 @@ Swaziland,SWZ
 Sweden,SWE
 Switzerland,CHE
 Syria,SYR
-Taiwan,TPE
+Chinese Taipei,TPE
 Tajikistan,TJK
 Tanzania,TAN
 Thailand,THA
@@ -200,3 +200,4 @@ Virgin Islands,ISV
 Yemen,YEM
 Zambia,ZAM
 Zimbabwe,ZIM
+Yugoslavia,
